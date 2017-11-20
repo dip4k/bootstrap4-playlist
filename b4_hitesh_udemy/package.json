@@ -1,0 +1,14 @@
+{
+  "name": "b4_course",
+  "version": "1.0.0",
+  "description": "Course Exercises form udemy course on b4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-beta.2"
+  }
+}

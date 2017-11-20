@@ -1,0 +1,35 @@
+.clr{
+    background: #2cc2a9;
+}
+
+/* xs */
+@media (max-width:575px){
+    .clr{
+        background: blueviolet;
+    }
+}
+
+/* sm */
+@media (min-width:576px) and (max-width:767px){
+    .clr{
+        background: hsl(32, 78%, 51%);
+    }
+}
+
+/* md */
+@media (min-width:768px) and (max-width:991px){
+    .clr{
+        background: hsl(209, 78%, 51%);
+    }
+}
+
+/* lg */
+@media (min-width:992px) and (max-width:1199px){
+    .clr{
+        background: rgb(198, 227, 32);
+    }
+}
+
+.con-h{
+    height: 200px;
+}

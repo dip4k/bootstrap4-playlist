@@ -1,0 +1,25 @@
+body{
+    background: url("https://wallpaperscraft.com/image/playstation_gamepad_crash_22102_1920x1080.jpg") no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+.exo{
+    font-family: 'Exo 2', sans-serif;
+
+}
+.hero{
+    color:lightgray;
+    background: rgba(82, 75, 36, 0.123);
+    
+    margin-top: 20%;
+    text-align: center;
+    font-size: 40px;
+    
+
+}
+
+.gm-size{
+    height: 150px;
+    width: 200px;
+}
